@@ -1,8 +1,7 @@
 pytorch_msssim
 compressai==1.2.0b3
-htop
 einops
 timm
-yaml
 opencv-python
-tqdm
+tensorboard
+gpustat
