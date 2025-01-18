@@ -11,6 +11,7 @@ build-essential \
 unzip \
 tree \
 git \
+zip \
 && \
 apt-get clean && \
 rm -rf /var/lib/apt/lists/*
