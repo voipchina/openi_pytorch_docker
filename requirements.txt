@@ -14,3 +14,7 @@ pytorch_fid
 wandb
 addict
 deepspeed
+lpips
+#pcnet
+thop
+scikit-image

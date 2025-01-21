@@ -4,4 +4,4 @@ https://cr.console.aliyun.com/repository/cn-hangzhou/mario_odyssey/openi_pytorch
 Type: Branch/Branch: main/version: baseline
 
 ## Pull Locally
-docker pull registry.cn-hangzhou.aliyuncs.com/mario_odyssey/openi_pytorch24_cuda118:baseline 
+docker pull registry.cn-hangzhou.aliyuncs.com/mario_odyssey/openi_pytorch24_cuda118:v01 
