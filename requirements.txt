@@ -1,5 +1,5 @@
 pytorch_msssim
-compressai==1.2.0b3
+compressai
 einops
 timm
 opencv-python
